@@ -1,0 +1,19 @@
+{
+  "name": "ccs-email-backend",
+  "version": "1.0.0",
+  "description": "Backend server for ccs email",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kanavdhanda/email.git"
+  },
+  "author": "kd",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kanavdhanda/email/issues"
+  },
+  "homepage": "https://github.com/kanavdhanda/email#readme"
+}
